@@ -1,5 +1,3 @@
-package src;
-
 import model.Book;
 import service.LibraryService;
 
